@@ -1,10 +1,6 @@
 # Frame Duper
 
 <p align="center">
-  <img src="preview.png" alt="Frame Duper Preview" width="650"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version"/>
   <img src="https://img.shields.io/badge/OS-Windows-blue?style=for-the-badge&logo=windows" alt="OS Support"/>
 </p>
@@ -26,6 +22,10 @@ A sleek, modern auto-clicking utility built with Python and Tkinter for Windows.
 - **Custom Start/Stop Hotkey:** Bind any key to toggle the auto-clicker (Default: `F6`).
 
 ---
+
+<p align="center">
+  <img src="preview.png" alt="Frame Duper Preview" width="650"/>
+</p>
 
 ## Requirements & Installation
 
