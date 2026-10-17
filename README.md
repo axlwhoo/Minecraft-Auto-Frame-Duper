@@ -27,6 +27,8 @@ A sleek, modern auto-clicking utility built with Python and Tkinter for Windows.
   <img src="preview.png" alt="Frame Duper Preview" width="650"/>
 </p>
 
+---
+
 ## Requirements & Installation
 
 - **Windows 10 / 11**
