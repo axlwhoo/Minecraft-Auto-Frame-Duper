@@ -1,7 +1,7 @@
 # Frame Duper
 
 <p align="center">
-  <img src="assets/preview.png" alt="Frame Duper Preview" width="650"/>
+  <img src="preview.png" alt="Frame Duper Preview" width="650"/>
 </p>
 
 <p align="center">
