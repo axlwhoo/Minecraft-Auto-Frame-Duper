@@ -1,4 +1,3 @@
-```markdown
 # Frame Duper
 
 <p align="center">
@@ -26,7 +25,6 @@ A sleek, modern auto-clicking utility built with Python and Tkinter for Windows.
   - **Cycle Mode:** Loops through hotbar slots 1 to 9 sequentially.
 - **Target Window Focus:** Select a specific program or game window. The script automatically pauses if you switch away from the targeted window.
 - **Custom Start/Stop Hotkey:** Bind any key to toggle the auto-clicker (Default: `F6`).
-- **Modern Interface:** Borderless window with rounded corners, pin-on-top mode, and custom title bar tailored for Windows.
 
 ---
 
@@ -48,7 +46,7 @@ pip install pynput pillow
 
 1. Clone or download this repository:
 ```bash
-git clone [https://github.com/your-username/frame-duper.git](https://github.com/your-username/frame-duper.git)
+git clone [https://github.com/axlwhoo/Minecraft-Auto-Frame-Duper.git](https://github.com/axlwhoo/Minecraft-Auto-Frame-Duper.git)
 cd frame-duper
 
 ```
@@ -86,11 +84,3 @@ pyinstaller --noconfirm --onefile --windowed --icon="icon.ico" --add-data "logo.
 3. The generated `.exe` file will be located in the `dist/` directory.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-```
-
-```
